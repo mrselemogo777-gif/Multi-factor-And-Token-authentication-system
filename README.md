@@ -7,12 +7,13 @@
 
 Multi-factor And Token Authentication System is a secure Flask-based authentication solution featuring OTP verification, token-based API authentication, and comprehensive security measures.
 
-**Developed as part of Advanced Cybersecurity Development (CET324)**
+**Developed as part of Advanced Cybersecurity Development **
 
 ---
 
-## 📽️ Demo Video
-[Watch the Demo](screencast_cybersecurity2026.mp4)
+## 🎥 Demo Video
+
+[Watch the Demo on YouTube](https://youtu.be/RJ63vy679B4)
 
 ---
 
