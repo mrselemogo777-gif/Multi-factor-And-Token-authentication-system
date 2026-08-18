@@ -10,11 +10,11 @@ Multi-factor And Token Authentication System is a secure Flask-based authenticat
 **Developed as part of Advanced Cybersecurity Development **
 
 ---
+🎥 Demo Video
 
-## 🎥 Demo Video
+[![Watch the Demo](https://img.youtube.com/vi/RJ63vy679B4/0.jpg)](https://youtu.be/RJ63vy679B4)
 
-[Watch the Demo on YouTube](https://youtu.be/RJ63vy679B4)
-
+*Click the thumbnail to watch the demo on YouTube*
 ---
 
 ## 📋 Project Overview
